@@ -1,3 +1,16 @@
+# Primeira Aplicação em React
+
+<h3>Consumindo uma API que retorna alguns dados, utilizando React.</h3>
+
+# Skills:
+<ul>
+  <li>JSX</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
+  <li>API - JSON</li>
+</ul
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
