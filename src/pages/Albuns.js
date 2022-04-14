@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Header from './Header'
-import Loading from './Loading';
+import Loading from '../componets/Loading';
 
 const Albuns = () => {
     const [isLoading, setIsLoading] = useState(false)
@@ -18,7 +17,6 @@ const Albuns = () => {
 
     return(
         <>
-            <Header title="Álbuns" />
             <Loading visible={isLoading} />
             
             {

@@ -16,11 +16,13 @@ function Counter() {
     }
 
   return(
-    <div className='Counter'>
-        <span>{contador}</span>
-        <button onClick={() => handleOnClick('+')}>+</button>
-        <button onClick={() => handleOnClick('-')}>-</button>
-    </div>
+    <>
+      <div className='Counter'>
+          <span>{contador}</span>
+          <button onClick={() => handleOnClick('+')}>+</button>
+          <button onClick={() => handleOnClick('-')}>-</button>
+      </div>
+    </>
   )
 }
 
