@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import Albuns from './pages/Albuns'
 import Counter from './pages/Counter'
 import Template from './templates/Template'
-import Users from './Users'
+import Users from './pages/Users'
 
 
 
